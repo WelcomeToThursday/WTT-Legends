@@ -72,12 +72,6 @@
       "_tpl": "67f757e89c7aaec4e343d2b5",
       "parentId": "6aff3cdbf6721b0634af0136",
       "slotId": "mod_bipod"
-    },
-    {
-      "_id": "6aff3cd9f6721b0634af0121",
-      "_tpl": "6768c25aa7b238f14a08d3f6",
-      "parentId": "6aff3cdbf6721b0634af0136",
-      "slotId": "patron_in_weapon"
     }
   ],
   "barter_scheme": {
