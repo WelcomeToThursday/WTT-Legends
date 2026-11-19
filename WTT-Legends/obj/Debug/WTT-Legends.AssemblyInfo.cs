@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WTT-Legends")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+f84af93f4d8c596fe36cf382de29ec9105d563a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WTT-Legends")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WTT-Legends")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
