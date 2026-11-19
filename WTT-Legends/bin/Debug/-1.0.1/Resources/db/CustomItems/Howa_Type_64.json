@@ -1,0 +1,611 @@
+{
+  "67f757e26cf3bc1bfc968982": {
+    "itemTplToClone": "591ee00d86f774592f7b841e",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Weight": 0.057,
+      "ExaminedByDefault": true,
+      "RaidModdable": true,
+      "Width": 2,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_mount_type64_piccatiny_rail.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_id": "5b099bb25acfc400186331ea",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "5b099bb25acfc400186331e8",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 Siderail Mount",
+        "shortName": "Type 64",
+        "description": "A modern piccatiny rail made to fit in the slot of a M84 Scope mount. Supports variety of sights, although it blocks a portion of the chamber view."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 7653,
+    "handbookPriceRoubles": 5447,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "67f757e6e60606b56610261d": {
+    "itemTplToClone": "5b0bbe4e5acfc40dc528a72d",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/weapon_howa_type64_container.bundle",
+        "rcid": ""
+      },
+      "Width": 5,
+      "Height": 2,
+      "AllowFeed": false,
+      "AllowJam": false,
+      "AllowMisfire": false,
+      "AllowSlide": false,
+      "AimPlane": 0.3,
+      "CenterOfImpact": 0.11,
+      "DurabilityBurnRatio": 3.15,
+      "SingleFireRate": 500,
+      "bFirerate": 500,
+      "Velocity": 1.1,
+      "DeviationCurve": 1.12,
+      "DeviationMax": 15,
+      "Ergonomics": 45,
+      "isChamberLoad": true,
+      "TacticalReloadFixation": 95,
+      "TacticalReloadStiffnes": {
+        "x": 0.85,
+        "y": 0.8,
+        "z": 0.95
+      },
+      "ExaminedByDefault": true,
+      "ExamineExperience": 20,
+      "HeatFactorGun": 0.99,
+      "IronSightRange": 100,
+      "LootExperience": 50,
+      "RecoilAngle": 93,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.238,
+        "z": 0.002
+      },
+      "RecoilForceUp": 142,
+      "RecoilForceBack": 382,
+      "RecoilCamera": 0.045,
+      "RecoilDampingHandRotation": 0.75,
+      "RecoilReturnSpeedHandRotation": 3.42,
+      "RecoilReturnPathDampingHandRotation": 0.51,
+      "RecoilStableIndexShot": 4,
+      "RecoilPosZMult": 1,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -0.8,
+        "y": 0.8,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -1.2,
+        "y": 0,
+        "z": 0
+      },
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.05,
+        "z": -0.034
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": -0.238,
+        "z": -0.009
+      },
+      "Slots": [
+        {
+          "_id": "67f75fa092b226eb0d2a9bb1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "67f757e76a8379e1874e8556"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "67f7601eeb13ec4fdd7f5a4b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67f760061ccdd8ae7ac6fd75"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "67f75fafaad5ed69caced214",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67f757e26cf3bc1bfc968982"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "67f75fbb1920d932ff90df1e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67f757e853012eb617d4b50b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "67f75fcbec7ef481c01e83fc",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67f757e9f5c8b5a10f0b6bc1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "67f76032b303bc270721284e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_bipod",
+          "_parent": "67f757e6e60606b56610261d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67f757e89c7aaec4e343d2b5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 2.8,
+      "ammoCaliber": "Caliber762x51",
+      "defAmmo": "5e023e53d4353e3302577c4c",
+      "defMagType": "67f757e76a8379e1874e8556",
+      "durabSpawnMax": 100,
+      "durabSpawnMin": 35,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 7.62x51 battle rifle",
+        "shortName": "Type 64",
+        "description": "The Howa Type 64 battle rifle (Romanized: Roku-yon-shiki-jidou-shoujuu), referred to as the Type 64 7.62mm rifle, is a Japanese battle rifle used exclusively by the Japan Self-Defense Forces and the Japanese Coast Guard. It is a gas-operated, selective fire weapon which is chambered for the 7.62×51mm NATO round and uses a detachable 20-round box magazine. The Type 64 has never been exported due to Japan's strict anti-hardware export laws. It has been superseded by the more advanced Howa Type 89 from 1989 to 1990, but is still in service with all branches of the Self-Defense Forces and the Japanese Coast Guard. The JGSDF's Ōita Prefecture garrison had encountered supply problems when they were not able to account for 30 Howa Type 64s that had been lost, yet somehow among those 30 that were lost some ended up here."
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 187221,
+    "handbookPriceRoubles": 158771,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6aff3cdbf6721b0634af0139",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "TYPE64",
+        "_parent": "6aff3cdbf6721b0634af013a",
+        "_items": [
+          {
+            "_id": "6aff3cdbf6721b0634af013a",
+            "_tpl": "67f757e6e60606b56610261d",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6aff3cd9f6721b0634af011c",
+            "_tpl": "67f757e76a8379e1874e8556",
+            "parentId": "6aff3cdbf6721b0634af013a",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6aff3cd9f6721b0634af011d",
+            "_tpl": "67f760061ccdd8ae7ac6fd75",
+            "parentId": "6aff3cdbf6721b0634af013a",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6aff3cd9f6721b0634af011e",
+            "_tpl": "67f757e853012eb617d4b50b",
+            "parentId": "6aff3cdbf6721b0634af013a",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aff3cd9f6721b0634af011f",
+            "_tpl": "67f757e9f5c8b5a10f0b6bc1",
+            "parentId": "6aff3cdbf6721b0634af013a",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aff3cd9f6721b0634af0120",
+            "_tpl": "67f757e89c7aaec4e343d2b5",
+            "parentId": "6aff3cdbf6721b0634af013a",
+            "slotId": "mod_bipod"
+          }
+        ],
+        "_encyclopedia": "67f757e6e60606b56610261d"
+      }
+    ],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 450,
+        "Level3": 1200,
+        "Name": "Howa Type 64 Battlerifle",
+        "Templates": [
+          "67f757e6e60606b56610261d"
+        ]
+      }
+    ]
+  },
+  "67f757e76a8379e1874e8556": {
+    "itemTplToClone": "5b099ac65acfc400186331e1",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Ergonomics": -8,
+      "Weight": 0.4,
+      "ExamineExperience": 15,
+      "ExtraSizeDown": 0,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_magazine_type64_20rnd.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 20-Round Magazine",
+        "shortName": "Type 64",
+        "description": "Standard issue detachable metal magazine for the Type 64, supports 20 round."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2853,
+    "handbookPriceRoubles": 1162,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "67f760061ccdd8ae7ac6fd75": {
+    "itemTplToClone": "5b7d671b5acfc43d82528ddd",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Ergonomics": 10,
+      "Weight": 0.68,
+      "Width": 2,
+      "Height": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeLeft": 0,
+      "Recoil": -14,
+      "ExamineExperience": 10,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_handguard_type64_stamped_steel.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 Stamped Steel Handguard",
+        "shortName": "Type 64",
+        "description": "Standard issue handguard for Type 64, made from stamped steel."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 16223,
+    "handbookPriceRoubles": 12763,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "67f757e853012eb617d4b50b": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "Ergonomics": 7,
+      "Weight": 0.014,
+      "Width": 1,
+      "Height": 1,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_front_sight_type64.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 Front Sight Flip Up",
+        "shortName": "Type 64",
+        "description": "Standard issue flippable sight for the Type 64."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 910,
+    "handbookPriceRoubles": 885,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "67f757e9f5c8b5a10f0b6bc1": {
+    "itemTplToClone": "5894a81786f77427140b8347",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "Ergonomics": 8,
+      "Weight": 0.028,
+      "Width": 1,
+      "Height": 1,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_rear_sight_type64.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 Rear Sight Flip Up",
+        "shortName": "Type 64",
+        "description": "Standard issue flippable sight for the Type 64."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 910,
+    "handbookPriceRoubles": 885,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "67f757e89c7aaec4e343d2b5": {
+    "itemTplToClone": "56ea8222d2720b69698b4567",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "Ergonomics": -12,
+      "Weight": 0.124,
+      "ExamineExperience": 12,
+      "ExaminedByDefault": true,
+      "RaidModdable": true,
+      "CanSellOnRagfair": true,
+      "BipodRecoilMultiplier": 0.35,
+      "Width": 2,
+      "Prefab": {
+        "path": "Mods/Howa_Type_64/mod_bipod_type64.bundle",
+        "rcid": ""
+      },
+      "YawLimitProneBipod": {
+        "x": -31,
+        "y": 31,
+        "z": 0
+      },
+      "PitchLimitProneBipod": {
+        "x": -12,
+        "y": 2,
+        "z": 0
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Howa Type 64 Marksman Bipod",
+        "shortName": "Type 64",
+        "description": "Standard issue bipod made for Type 64."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 7261,
+    "handbookPriceRoubles": 4885,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": []
+  }
+}
