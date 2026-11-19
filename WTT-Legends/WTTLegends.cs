@@ -15,7 +15,10 @@ public record ModMetadata : IModMetadata
     public List<string>? Contributors { get; init; } = null;
     public SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
     public Range SptVersion { get; init; } = new("~4.1.6");
-    public List<string>? Incompatibilities { get; init; }
+    public List<string>? Incompatibilities { get; init; } = new()
+    {
+        "com.howa.type64"
+    };
     public Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
         { "com.wtt.commonlib", new Range("~3.0.8") }
