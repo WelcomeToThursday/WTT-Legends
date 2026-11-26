@@ -1,0 +1,239 @@
+{
+    "manifest": [
+        {
+            "key": "Mods/AWM/awm_338_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_20_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_27_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_27_fluted_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_32_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_5rd_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_7rd_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_barrel_mount.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_bottom_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_charge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_front_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_side_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_338_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/awm_rear_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/AWM/awm_338_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AWM/weapon_awm_338_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/client_assets.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/client_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/weapon_howa_type64_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "assets/content/audio/weapons/generic"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_bipod_type64.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_front_sight_type64.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_handguard_type64_stamped_steel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_magazine_type64_20rnd.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_mount_type64_piccatiny_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Howa_Type_64/mod_rear_sight_type64.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Howa_Type_64/client_textures.bundle",
+                "Mods/Howa_Type_64/client_assets.bundle"
+            ]
+        }
+    ]
+}

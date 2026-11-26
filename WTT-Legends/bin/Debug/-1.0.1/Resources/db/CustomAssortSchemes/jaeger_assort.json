@@ -1,0 +1,96 @@
+{
+  "JAEGER": {
+  "items": [
+    {
+      "_id": "6b088ae752ecd79e9867c077",
+      "_tpl": "6b070da47d0e825f4a7e71b7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": true,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c052",
+      "_tpl": "6b087ba316116decd22bf0c2",
+      "parentId": "6b088ae752ecd79e9867c077",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c053",
+      "_tpl": "6b070ff37d0e825f4a7e71bb",
+      "parentId": "6b088ae752ecd79e9867c077",
+      "slotId": "mod_pistol_grip",
+      "upd": {
+        "Foldable": {
+          "Folded": false
+        }
+      }
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c054",
+      "_tpl": "6b070ff37d0e825f4a7e71b9",
+      "parentId": "6b088ae752ecd79e9867c077",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c055",
+      "_tpl": "5aa66a9be5b5b0214e506e89",
+      "parentId": "6b088ae752ecd79e9867c077",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c056",
+      "_tpl": "6b087cf216116decd22bf0c9",
+      "parentId": "6b088ae752ecd79e9867c077",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c057",
+      "_tpl": "5aa66be6e5b5b0214e506e97",
+      "parentId": "6b088ae552ecd79e9867c055",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6b088ae552ecd79e9867c058",
+      "_tpl": "62812081d23f207deb0ab216",
+      "parentId": "6b088ae552ecd79e9867c056",
+      "slotId": "mod_muzzle"
+    }
+  ],
+  "barter_scheme": {
+    "6b088ae752ecd79e9867c077": [
+      [
+        {
+          "count": 310000,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "6b088ae752ecd79e9867c077": 4
+  } 
+  }
+}
